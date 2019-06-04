@@ -8,3 +8,8 @@ array.map do |i|
      "Hello, my name is #{i}."
 end
 end
+
+ def assign_rooms(array)
+   array.each_with_index.map do |name,i|
+end
+end     
