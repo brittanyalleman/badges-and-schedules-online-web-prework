@@ -16,3 +16,4 @@ end
 end
 
 def printer(array)
+end
