@@ -6,4 +6,3 @@ def batch_badge_creator(array)
   return array. each do "hello, my name is"
 
 end
-
