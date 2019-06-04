@@ -14,3 +14,5 @@ end
      "Hello, #{name}! You'll be assigned to room #{i+1}!"
 end
 end
+
+def printer(array)
