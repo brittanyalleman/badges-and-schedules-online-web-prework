@@ -1,4 +1,4 @@
-require_relative '../conference_badges'
+require_relative ../conference_badges
 
 def badge_maker(name)
   return "Hello, my name is #{name}."
